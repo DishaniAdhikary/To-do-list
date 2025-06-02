@@ -67,7 +67,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image:url(image.png);
+    background-image: url(image.png);
     background-size: cover;
     background-position: center;
     top:12px;
@@ -97,4 +97,3 @@ ul li span{
 }
 ul li span:hover{
     background: #edeef0;
-}
